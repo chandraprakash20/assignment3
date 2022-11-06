@@ -8,8 +8,8 @@ import { Component, OnInit } from '@angular/core';
 export class DisplayDataComponent implements OnInit {
 
   constructor() { }
-  a:Number = 60;
-  b:String = 'nayan surati'
+  a:Number = 58;
+  b:String = 'chandra prakash'
   c:Date = new Date('12/12/2000')
 
   ngOnInit(): void {
